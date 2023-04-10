@@ -11,5 +11,8 @@
     "url": "(https://github.com/regiem14/First-Express-Server.git)"
   },
   "author": "Regie Marzan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
